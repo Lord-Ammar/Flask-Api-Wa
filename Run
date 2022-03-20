@@ -1,0 +1,1 @@
+requests.post("http://127.0.0.1:5000/api/spam",data={"nomor":"87708773367"}).text
